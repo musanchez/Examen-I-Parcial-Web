@@ -59,4 +59,9 @@ footer {
 img {
     width: 200px;
     height: 200px;
+    border-radius: 50%;
+}
+
+img:hover {
+    transform: scale(1.1);
 }
